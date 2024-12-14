@@ -6,7 +6,7 @@ import retrofit2.http.GET
 import retrofit2.http.Query
 
 interface WeatherApi {
-    //https://api.weatherapi.com/v1/current.json?key=de474483a30a4f03b2e123545241312&q=London&aqi=no
+    //https://api.weatherapi.com/v1/current.json?key=***********=London&aqi=no
 
 
     @GET("/v1/current.json")
