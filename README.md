@@ -13,7 +13,9 @@ MVVM: Temiz ve sürdürülebilir mimari yapı
 LiveData: ViewModel'den View'a veri aktarımı
 Coroutines: Asenkron işlemler için
 
-![Ekran görüntüsü 2024-12-14 184442](https://github.com/user-attachments/assets/49ab7000-b0f9-4c34-a362-fed3f94e35f9)
-![Ekran görüntüsü 2024-12-14 184628](https://github.com/user-attachments/assets/5b6477e8-688b-4b10-b1f2-124187acd93c)
-![Ekran görüntüsü 2024-12-14 184556](https://github.com/user-attachments/assets/c6ee2727-b117-487a-ac05-545138e55673)
-![Ekran görüntüsü 2024-12-14 184519](https://github.com/user-attachments/assets/2aab3b4f-62e2-4049-accc-e9c3527f02f7)
+
+
+![Ekran görüntüsü 2024-12-14 184628](https://github.com/user-attachments/assets/265d0c71-0ce8-4f26-8510-b7a0064887d9)
+![Ekran görüntüsü 2024-12-14 184556](https://github.com/user-attachments/assets/7f65b757-c769-4700-9910-bfacd91fff95)
+![Ekran görüntüsü 2024-12-14 184519](https://github.com/user-attachments/assets/0e4a6065-b046-4f3e-b2fb-be03c113ea1d)
+![Ekran görüntüsü 2024-12-14 184442](https://github.com/user-attachments/assets/c81a7760-47e9-4cdd-985d-3451c09d0b19)
